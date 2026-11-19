@@ -24,9 +24,13 @@ Biology undergraduate at UERJ (environmental track) and Systems Analysis and Dev
 
 #### Live right now
 
-<a href="https://hnryguchi.github.io/CoralGuard/"><img src="https://hnryguchi.github.io/CoralGuard/status.svg" alt="Today's sea surface temperature anomaly, heat stress and bleaching alert level for Brazil's coral reefs, from NOAA Coral Reef Watch" width="540"></a>
+Both cards are regenerated every day by GitHub Actions from public data. Click either one for the full page.
 
-<sub>Real NOAA data, regenerated every day by CoralGuard's GitHub Actions pipeline. Click for the interactive dashboard.</sub>
+<a href="https://hnryguchi.github.io/CoralGuard/"><img src="https://hnryguchi.github.io/CoralGuard/status.svg" alt="CoralGuard: today's sea surface temperature anomaly, heat stress and bleaching alert level for Brazil's coral reefs (NOAA Coral Reef Watch)" width="540"></a>
+
+<a href="https://hnryguchi.github.io/metocean-qc/"><img src="https://hnryguchi.github.io/metocean-qc/41010/status.svg" alt="metocean-qc: latest readings, 72-hour pressure chart and automatic QC flags for NOAA buoy 41010" width="540"></a>
+
+<sub>Interactive maps on GitHub: [Brazil's coral reefs](https://github.com/hnryguchi/CoralGuard/blob/main/reefs.geojson) · [QC'd buoys](https://github.com/hnryguchi/metocean-qc/blob/main/stations.geojson) · try metocean-qc in the browser: [Open in Codespaces](https://codespaces.new/hnryguchi/metocean-qc?quickstart=1)</sub>
 
 #### How I work
 
@@ -45,6 +49,11 @@ Biology undergraduate at UERJ (environmental track) and Systems Analysis and Dev
 Atmospheric modeling and high-performance computing (NAPROA) · CI/CD with GitHub Actions · containerization · retrieval over public environmental datasets
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hnryguchi/hnryguchi/output/snake-dark.svg">
+  <img alt="Animation of a snake eating the squares of my GitHub contribution graph" src="https://raw.githubusercontent.com/hnryguchi/hnryguchi/output/snake-light.svg" width="100%">
+</picture>
 
 <sub>PT-BR: Desenvolvo software para monitoramento ambiental. Graduando em Ciências Biológicas (UERJ) e em Análise e Desenvolvimento de Sistemas (UVA); bolsista de Iniciação Científica em Ciência de Dados e Modelagem Atmosférica no NAPROA (FAOC/UERJ). Trabalho na equipe ambiental de uma consultoria de monitoramento offshore.</sub>
 
