@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="t d">
   <title id="t">Henry Noguchi</title>
-  <desc id="d">Software para monitoramento ambiental: dados de oceano e atmosfera, mapas e agentes de IA.</desc>
+  <desc id="d">Engenharia de software e IA para dados ambientais.</desc>
   <style>
     .w1{animation:drift 9s ease-in-out infinite alternate}
     .w2{animation:drift 12s ease-in-out infinite alternate-reverse}
@@ -47,7 +47,7 @@
   <circle class="flag" cx="970" cy="64" r="7" fill="none" stroke="#dc2626" stroke-width="2.5"/>
   <text class="lbl" x="984" y="58" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#b91c1c">SUSPEITO · pico</text>
   <text x="64" y="118" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="54" font-weight="700" fill="#0c1a2e">Henry Noguchi</text>
-  <text x="66" y="162" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="22" fill="#075985">Software para monitoramento ambiental</text>
-  <text x="66" y="194" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" fill="#0369a1">dados de oceano e atmosfera · mapas · agentes de IA com uma pessoa no controle</text>
-  <text x="66" y="250" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" fill="#0f766e">$ regras primeiro → IA como segunda opinião → uma pessoa decide<tspan class="cur"> ▍</tspan></text>
+  <text x="66" y="162" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="22" fill="#075985">Engenharia de software e IA para dados ambientais</text>
+  <text x="66" y="194" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" fill="#0369a1">pipelines de dados oceânicos e atmosféricos · geoespacial · agentes LLM</text>
+  <text x="66" y="250" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" fill="#0f766e">$ stack: Python · TypeScript · Azure · Claude API · GitHub Actions<tspan class="cur"> ▍</tspan></text>
 </svg>
