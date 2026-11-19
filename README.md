@@ -1,70 +1,88 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Henry Noguchi. Software for environmental monitoring: ocean and atmosphere data, maps and AI agents with humans in the loop." src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-pt.svg">
+  <img alt="Henry Noguchi. Software para monitoramento ambiental: dados de oceano e atmosfera, mapas e agentes de IA com uma pessoa no controle." src="assets/banner-light-pt.svg" width="100%">
 </picture>
 
-I build software for environmental monitoring: data platforms, operational maps, and agents that pair **deterministic rules with LLM review**.
-Biology undergraduate at UERJ (environmental track) and Systems Analysis and Development student at UVA. Developer on the environmental team of an offshore monitoring consultancy, and undergraduate research (IC) scholar in data science and atmospheric modeling at [NAPROA](https://labofis.uerj.br/olabofis), UERJ's Faculty of Oceanography, studying how Pacific and Atlantic sea surface temperatures shape the climate of Southeast Brazil.
+<p align="center">
+  <a href="https://www.linkedin.com/in/henry-noguchi-340933201/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://hnryguchi.github.io/CoralGuard/"><img src="https://img.shields.io/badge/CoralGuard-ao_vivo-e4572e?style=for-the-badge" alt="CoralGuard ao vivo"></a>
+  <a href="https://hnryguchi.github.io/metocean-qc/"><img src="https://img.shields.io/badge/metocean--qc-ao_vivo-1f6feb?style=for-the-badge" alt="metocean-qc ao vivo"></a>
+  <a href="https://codespaces.new/hnryguchi/metocean-qc?quickstart=1"><img src="https://img.shields.io/badge/Rodar_no_navegador-Codespaces-24292f?style=for-the-badge&logo=github" alt="Rodar no Codespaces"></a>
+</p>
 
-#### Selected work
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
+  <img alt="Terminal animado: whoami, lista de projetos, uma execução real do metocean-qc e como eu trabalho" src="assets/terminal-light.svg" width="100%">
+</picture>
 
-| Project | What it solves | Stack | Status |
-|---|---|---|---|
-| [**Environmental compliance portal**](https://github.com/hnryguchi/case-study-environmental-portal) | The team reviews and publishes monitoring programs, permit conditions and indicators; each client sees only approved content for its own projects | Next.js · TypeScript · Prisma · PostgreSQL · Azure | In production |
-| [**Maritime operations map**](https://github.com/hnryguchi/case-study-maritime-operations-map) | E-mailed position reports become a public map, validated by rules and reviewed by an LLM, with no redeploys | Next.js · MapLibre · WebGL2 · Azure Logic Apps · Claude | In production |
-| [**E-mail-driven agents**](https://github.com/hnryguchi/case-study-email-driven-agents) | Attachments are filed, checked by a rules engine, reviewed by an LLM, and turned into **drafts** for a human to approve | Python · PowerShell · Outlook COM · Claude | Daily use |
-| **QR-code evaluation form** | Paper training forms → mobile form, signature, template-faithful PDF, automatic SharePoint upload | Flask · Microsoft Graph · Azure · pytest | In production |
-| [**Aerys**](https://github.com/hnryguchi/aerys) | Low-cost weather station (temperature, humidity, pressure) with a public dashboard and authenticated device ingestion | ESP32 · Arduino · Next.js · Supabase | Prototype · selected by the Jovens Cientistas Cariocas program |
-| [**CoralGuard**](https://github.com/hnryguchi/CoralGuard) · [live](https://hnryguchi.github.io/CoralGuard/) | Satellite heat stress on Brazil's 7 monitored coral reef regions since 1985, rebuilt every day from NOAA Coral Reef Watch | Python · pandas · Plotly · Leaflet · GitHub Actions · Pages | Live, updated daily |
-| [**metocean-qc**](https://github.com/hnryguchi/metocean-qc) | Quality control for buoy and weather-station data, tested on real NOAA records: rules set the flags, an optional LLM explains each event | Python · pytest · GitHub Actions · Docker | Open source, v0.1 |
-| [**Engineering prompts**](https://github.com/hnryguchi/engineering-prompts) | Reusable prompts for working with AI coding agents: audits before changes, approval gates, no invented data | Markdown | Maintained |
-| [**RoboCAP**](https://github.com/hnryguchi/Robocap-Project) | University outreach project: Arduino builds, programming workshops and mini-courses | Arduino · C++ · Python | Outreach |
+### 🛠️ O que eu construí
 
-<sub>Company code stays private. The case studies cover the problem, architecture and decisions, with no client data.</sub>
+<table>
+<tr><td width="50%"><a href="https://github.com/hnryguchi/case-study-environmental-portal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/portal-dark.svg"><img src="assets/cards/portal-light.svg" alt="Portal de gestão ambiental" width="100%"></picture></a></td><td width="50%"><a href="https://github.com/hnryguchi/case-study-maritime-operations-map"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/mapa-dark.svg"><img src="assets/cards/mapa-light.svg" alt="Mapa de operações marítimas" width="100%"></picture></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/hnryguchi/case-study-email-driven-agents"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/agentes-dark.svg"><img src="assets/cards/agentes-light.svg" alt="Agentes de e-mail" width="100%"></picture></a></td><td width="50%"><a href="https://hnryguchi.github.io/CoralGuard/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/coralguard-dark.svg"><img src="assets/cards/coralguard-light.svg" alt="CoralGuard" width="100%"></picture></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/hnryguchi/metocean-qc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/metocean-dark.svg"><img src="assets/cards/metocean-light.svg" alt="metocean-qc" width="100%"></picture></a></td><td width="50%"><a href="https://github.com/hnryguchi/aerys"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/aerys-dark.svg"><img src="assets/cards/aerys-light.svg" alt="Aerys" width="100%"></picture></a></td></tr>
+<tr><td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/qrcode-dark.svg"><img src="assets/cards/qrcode-light.svg" alt="Ficha por QR Code" width="100%"></picture></td><td width="50%"><a href="https://github.com/hnryguchi/engineering-prompts"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/prompts-dark.svg"><img src="assets/cards/prompts-light.svg" alt="Prompts de engenharia" width="100%"></picture></a></td></tr>
+</table>
 
-#### Live right now
+<sub>O código da empresa fica privado: os estudos de caso mostram o problema, a arquitetura e as decisões, sem dados de clientes. · Também: <a href="https://github.com/hnryguchi/Robocap-Project">RoboCAP</a> (extensão em robótica com Arduino).</sub>
 
-Both cards are regenerated every day by GitHub Actions from public data. Click either one for the full page.
+### 📡 Ao vivo agora
 
-<a href="https://hnryguchi.github.io/CoralGuard/"><img src="https://hnryguchi.github.io/CoralGuard/status.svg" alt="CoralGuard: today's sea surface temperature anomaly, heat stress and bleaching alert level for Brazil's coral reefs (NOAA Coral Reef Watch)" width="540"></a>
+<table><tr>
+<td width="50%"><a href="https://hnryguchi.github.io/CoralGuard/"><img src="https://hnryguchi.github.io/CoralGuard/status.svg" alt="Recifes de coral do Brasil: anomalia de temperatura, estresse térmico e nível de alerta de hoje (NOAA)" width="100%"></a></td>
+<td width="50%"><a href="https://hnryguchi.github.io/metocean-qc/"><img src="https://hnryguchi.github.io/metocean-qc/41010/status.svg" alt="Boia 41010 da NOAA: últimas leituras, gráfico de 72 horas e flags do controle de qualidade" width="100%"></a></td>
+</tr></table>
 
-<a href="https://hnryguchi.github.io/metocean-qc/"><img src="https://hnryguchi.github.io/metocean-qc/41010/status.svg" alt="metocean-qc: latest readings, 72-hour pressure chart and automatic QC flags for NOAA buoy 41010" width="540"></a>
+<sub>Os dois se atualizam sozinhos todo dia com GitHub Actions e dados públicos. Mapas interativos: <a href="https://github.com/hnryguchi/CoralGuard/blob/main/reefs.geojson">🪸 recifes</a> · <a href="https://github.com/hnryguchi/metocean-qc/blob/main/stations.geojson">🌊 boias</a></sub>
 
-<sub>Interactive maps on GitHub: [Brazil's coral reefs](https://github.com/hnryguchi/CoralGuard/blob/main/reefs.geojson) · [QC'd buoys](https://github.com/hnryguchi/metocean-qc/blob/main/stations.geojson) · try metocean-qc in the browser: [Open in Codespaces](https://codespaces.new/hnryguchi/metocean-qc?quickstart=1)</sub>
+### 🧠 Como eu trabalho
 
-#### How I work
+```mermaid
+flowchart LR
+    A[📥 Dado chega] --> B[✅ Regras testadas<br/>marcam o problema]
+    B --> C[🤖 IA dá uma<br/>segunda opinião]
+    C --> D[🙋 Uma pessoa decide]
+    D --> E[🚀 Publica]
+```
 
-- **Rules first, LLM as a second opinion, a human approves.** Models explain and challenge; tested rules or people publish.
-- **Honest empty states over invented data**, in products and in this profile.
-- I build with AI assistance (Claude Code), and I own what ships: tests, review, and deploys only with approval.
+Prefiro um vazio honesto a um dado inventado. Desenvolvo com apoio de IA (Claude Code) e respondo pelo que vai para produção.
 
-#### Tools I use day to day
+### 🧰 Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 
-<sub>Also: React · Prisma · Flask · pandas · openpyxl · PowerShell · Azure Logic Apps · Microsoft Graph · Vitest · Playwright · Docker</sub>
+<details>
+<summary><b>🎮 📷 🎸 🔧 Fora do código</b> (clique para abrir)</summary>
+<br>
 
-#### Currently learning
+- 🔧 **Hardware:** também monto os equipamentos; o Aerys começou como um protótipo físico com ESP32.
+- 🎮 **Games:** jogo há anos e presto atenção em como os jogos são pensados e construídos. Desenvolvimento de jogos é uma área em que quero trabalhar.
+- 📷 **Fotografia:** filme instantâneo na Fujifilm Instax e digital antiga na Fujifilm FinePix 4800.
+- 🎸 **Música:** toco guitarra e escuto muita música; quero compartilhar jeitos simples de tocar: acordes, tablaturas e gravações.
 
-Atmospheric modeling and high-performance computing (NAPROA) · CI/CD with GitHub Actions · containerization · retrieval over public environmental datasets
+</details>
 
-#### Games
+<details>
+<summary><b>🎓 Sobre mim</b></summary>
+<br>
 
-🎮 I've been a gamer for years and pay attention to how games are designed and built. Game development is a field I want to work in.
+Graduando em Ciências Biológicas na UERJ (ênfase em Meio Ambiente) e em Análise e Desenvolvimento de Sistemas na UVA. Desenvolvedor na equipe ambiental de uma consultoria de monitoramento offshore, e bolsista de Iniciação Científica em ciência de dados e modelagem atmosférica no [NAPROA](https://labofis.uerj.br/olabofis) (Faculdade de Oceanografia da UERJ), estudando como as temperaturas dos oceanos Pacífico e Atlântico influenciam o clima do Sudeste do Brasil. Fui selecionado pelo programa Jovens Cientistas Cariocas com o Aerys.
 
-#### Outside of code
+**Aprendendo agora:** modelagem atmosférica e computação de alto desempenho · CI/CD com GitHub Actions · containers · busca em bases públicas de dados ambientais.
 
-- 🔧 **Hardware:** I build and assemble the devices too; the Aerys station started as a physical ESP32 prototype.
-- 📷 **Photography:** instant film on a Fujifilm Instax and early digital on a Fujifilm FinePix 4800.
-- 🎸 **Music:** I play guitar and listen to a lot of music; I want to share simple ways to play: chord shapes, tabs and recordings.
+</details>
 
----
+<details>
+<summary><b>🇬🇧 English</b></summary>
+<br>
+
+I build software for environmental monitoring: data platforms, operational maps, and agents that pair **deterministic rules with LLM review**, with a person making the final call. Biology undergraduate at UERJ (environmental track) and Systems Analysis and Development student at UVA. Developer on the environmental team of an offshore monitoring consultancy, and undergraduate research scholar in data science and atmospheric modeling at NAPROA (UERJ's Faculty of Oceanography).
+
+Selected work, above: an environmental compliance portal, a maritime operations map and e-mail-driven agents (all in production; case studies only, company code stays private), plus open-source [CoralGuard](https://hnryguchi.github.io/CoralGuard/), [metocean-qc](https://github.com/hnryguchi/metocean-qc) and [Aerys](https://github.com/hnryguchi/aerys). Outside of code: hardware builds, games, photography (Instax, FinePix 4800) and guitar.
+
+</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hnryguchi/hnryguchi/output/snake-dark.svg">
-  <img alt="Animation of a snake eating the squares of my GitHub contribution graph" src="https://raw.githubusercontent.com/hnryguchi/hnryguchi/output/snake-light.svg" width="100%">
+  <img alt="Cobrinha comendo os quadrados do meu gráfico de contribuições" src="https://raw.githubusercontent.com/hnryguchi/hnryguchi/output/snake-light.svg" width="100%">
 </picture>
-
-<sub>PT-BR: Desenvolvo software para monitoramento ambiental. Graduando em Ciências Biológicas (UERJ) e em Análise e Desenvolvimento de Sistemas (UVA); bolsista de Iniciação Científica em Ciência de Dados e Modelagem Atmosférica no NAPROA (FAOC/UERJ). Trabalho na equipe ambiental de uma consultoria de monitoramento offshore.</sub>
-
-[LinkedIn](https://www.linkedin.com/in/henry-noguchi-340933201/) · [Portfolio](https://henry-portfolio-lac.vercel.app)
