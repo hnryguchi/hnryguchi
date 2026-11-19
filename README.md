@@ -48,10 +48,9 @@ Both cards are regenerated every day by GitHub Actions from public data. Click e
 
 Atmospheric modeling and high-performance computing (NAPROA) · CI/CD with GitHub Actions · containerization · retrieval over public environmental datasets
 
-#### Next track: game development
+#### Games
 
-🎮 Games are what I want to build professionally next. I'm starting from zero shipped titles, so this space will show
-small prototypes and game jam entries, each with a playable build, a GIF and what I learned.
+🎮 I've been a gamer for years and pay attention to how games are designed and built. Game development is a field I want to work in.
 
 #### Outside of code
 
