@@ -1,7 +1,7 @@
 ### Henry Noguchi
 
 I build software for environmental monitoring: data platforms, operational maps, and agents that pair **deterministic rules with LLM review**.
-Biology undergraduate at UERJ (environmental track). Developer on the environmental team of an offshore monitoring consultancy, and extension scholar at [NAPROA / LABOFIS](https://labofis.uerj.br/olabofis), UERJ's physical oceanography and meteorology lab, which works with weather-station data and long-term metocean monitoring.
+Biology undergraduate at UERJ (environmental track). Developer on the environmental team of an offshore monitoring consultancy, and undergraduate research (IC) scholar in data science and atmospheric modeling at [NAPROA](https://labofis.uerj.br/olabofis), UERJ's Faculty of Oceanography, studying how Pacific and Atlantic sea surface temperatures shape the climate of Southeast Brazil.
 
 #### Selected work
 
@@ -28,10 +28,10 @@ TypeScript · Next.js · React · Prisma · PostgreSQL · Python · Flask · pan
 
 #### Currently learning
 
-Atmospheric and ocean modeling (NAPROA) · CI/CD with GitHub Actions · containerization · retrieval over public environmental datasets
+Atmospheric modeling and high-performance computing (NAPROA) · CI/CD with GitHub Actions · containerization · retrieval over public environmental datasets
 
 ---
 
-<sub>PT-BR: Desenvolvo software para monitoramento ambiental. Graduando em Ciências Biológicas (UERJ) e bolsista de extensão no NAPROA/LABOFIS. Trabalho na equipe ambiental de uma consultoria de monitoramento offshore.</sub>
+<sub>PT-BR: Desenvolvo software para monitoramento ambiental. Graduando em Ciências Biológicas (UERJ) e bolsista de Iniciação Científica em Ciência de Dados e Modelagem Atmosférica no NAPROA (FAOC/UERJ). Trabalho na equipe ambiental de uma consultoria de monitoramento offshore.</sub>
 
 [LinkedIn](https://www.linkedin.com/in/henry-noguchi-340933201/) · [Portfolio](https://henry-portfolio-lac.vercel.app)
