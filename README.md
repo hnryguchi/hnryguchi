@@ -15,7 +15,7 @@
 <table>
 <tr><td width="50%"><a href="https://github.com/hnryguchi/case-study-environmental-portal"><img src="assets/cards/portal.svg" alt="Portal de gestão ambiental" width="100%"></a></td><td width="50%"><a href="https://github.com/hnryguchi/case-study-maritime-operations-map"><img src="assets/cards/mapa.svg" alt="Mapa de operações marítimas" width="100%"></a></td></tr>
 <tr><td width="50%"><a href="https://github.com/hnryguchi/case-study-email-driven-agents"><img src="assets/cards/agentes.svg" alt="Agentes de e-mail" width="100%"></a></td><td width="50%"><a href="https://hnryguchi.github.io/CoralGuard/"><img src="assets/cards/coralguard.svg" alt="CoralGuard" width="100%"></a></td></tr>
-<tr><td width="50%"><a href="https://github.com/hnryguchi/metocean-qc"><img src="assets/cards/metocean.svg" alt="metocean-qc" width="100%"></a></td><td width="50%"><a href="https://github.com/hnryguchi/aerys"><img src="assets/cards/aerys.svg" alt="Aerys" width="100%"></a></td></tr>
+<tr><td width="50%"><a href="https://hnryguchi.github.io/metocean-qc/"><img src="assets/cards/metocean.svg" alt="metocean-qc" width="100%"></a></td><td width="50%"><a href="https://github.com/hnryguchi/aerys"><img src="assets/cards/aerys.svg" alt="Aerys" width="100%"></a></td></tr>
 <tr><td width="50%"><img src="assets/cards/qrcode.svg" alt="Ficha por QR Code" width="100%"></td><td width="50%"><a href="https://github.com/hnryguchi/engineering-prompts"><img src="assets/cards/prompts.svg" alt="Prompts de engenharia" width="100%"></a></td></tr>
 </table>
 
