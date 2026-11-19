@@ -17,29 +17,29 @@ THEMES = {
 # (file, title, two description lines, stack chips, status, accent colour)
 CARDS = [
     ("portal", "Portal de gestão ambiental",
-     ["A equipe revisa e publica programas e indicadores;", "cada cliente vê só o que foi aprovado."],
-     ["Next.js", "TypeScript", "PostgreSQL", "Azure"], "em produção", "#2da44e"),
+     ["Plataforma multi-tenant com RBAC por projeto,", "workflow de revisão/publicação e trilha de auditoria."],
+     ["Next.js", "TypeScript", "Prisma", "PostgreSQL", "Azure"], "produção", "#2da44e"),
     ("mapa", "Mapa de operações marítimas",
-     ["Relatórios por e-mail viram um mapa público,", "validados por regras e revisados por IA."],
-     ["MapLibre", "WebGL2", "Logic Apps", "Claude"], "em produção", "#0969da"),
-    ("agentes", "Agentes de e-mail",
-     ["Anexos conferidos por um motor de regras e uma IA;", "o resultado vira rascunho para uma pessoa aprovar."],
-     ["Python", "PowerShell", "Outlook", "Claude"], "uso diário", "#8250df"),
+     ["Ingestão por e-mail (Logic Apps), validação por regras,", "revisão por LLM e mapa WebGL2 sem redeploy."],
+     ["MapLibre", "WebGL2", "Logic Apps", "Claude API"], "produção", "#0969da"),
+    ("agentes", "Agentes LLM de e-mail",
+     ["Motor de regras determinístico + segunda opinião", "do modelo; saída em rascunho com aprovação humana."],
+     ["Python", "PowerShell", "Outlook COM", "Claude API"], "uso diário", "#8250df"),
     ("coralguard", "CoralGuard",
-     ["Estresse térmico nos recifes de coral do Brasil", "desde 1985, atualizado todo dia (NOAA)."],
-     ["Python", "pandas", "Plotly", "Actions"], "ao vivo", "#e4572e"),
+     ["Pipeline diário NOAA CRW: DHW, eventos de alerta e", "tendência de TSM em 7 recifes desde 1985."],
+     ["Python", "pandas", "Plotly", "GitHub Actions"], "ao vivo", "#e4572e"),
     ("metocean", "metocean-qc",
-     ["Controle de qualidade de dados de boias, testado", "com dados reais e rodando todo dia."],
-     ["Python", "pytest", "Docker", "Actions"], "código aberto", "#1f6feb"),
+     ["QC de séries de boias no padrão QARTOD: range,", "spike, flat line e gaps. CI em 4 versões do Python."],
+     ["Python", "pytest", "Docker", "GitHub Actions"], "open source", "#1f6feb"),
     ("aerys", "Aerys",
-     ["Estação ambiental de baixo custo: protótipo físico", "com ESP32 e painel web. Jovens Cientistas Cariocas."],
-     ["ESP32", "Arduino", "Next.js", "Supabase"], "protótipo", "#bf8700"),
-    ("qrcode", "Ficha por QR Code",
-     ["Fichas de papel viram formulário no celular, PDF fiel", "ao modelo e envio automático ao SharePoint."],
-     ["Flask", "MS Graph", "Azure", "pytest"], "em produção", "#2da44e"),
-    ("prompts", "Prompts de engenharia",
-     ["Prompts para trabalhar com agentes de código:", "auditoria antes de mudar, aprovação, sem dado inventado."],
-     ["Markdown"], "mantido", "#57606a"),
+     ["Estação IoT de baixo custo: firmware ESP32, ingestão", "autenticada e dashboard. Jovens Cientistas Cariocas."],
+     ["ESP32", "C++", "Next.js", "Supabase"], "protótipo", "#bf8700"),
+    ("qrcode", "Formulário por QR Code",
+     ["Formulário mobile, PDF fiel ao template e upload", "automático via Microsoft Graph para o SharePoint."],
+     ["Flask", "MS Graph", "Azure", "pytest"], "produção", "#2da44e"),
+    ("prompts", "Engineering prompts",
+     ["Templates para agentes de código: auditoria read-only,", "gates de aprovação e dados verificáveis."],
+     ["Markdown", "Claude Code"], "mantido", "#57606a"),
 ]
 
 W, H = 400, 150
@@ -83,11 +83,11 @@ def card(theme: str, title, lines, chips, status, accent) -> str:
 # ---- animated terminal: each line appears in turn, like typing; real output from metocean-qc ----
 TERM = [
     ("$ ", "whoami"),
-    ("", "henry · biologia (UERJ) + ADS (UVA) · IC no NAPROA · equipe ambiental offshore"),
+    ("", "henry · engenharia de software e IA · biologia (UERJ) + ADS (UVA) · IC NAPROA"),
     ("$ ", "ls projetos/"),
     ("", "portal-ambiental/  mapa-maritimo/  agentes-email/  coralguard/  metocean-qc/  aerys/"),
     ("$ ", "metqc fetch 41010 && metqc check data/41010.txt"),
-    ("", "41010: 6347 registros, 12 achados, 2 eventos  ✓ relatório gerado"),
+    ("", "41010: 6347 registros · 12 flags · 2 eventos  ✓ report.json report.md"),
 ]
 
 

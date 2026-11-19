@@ -1,4 +1,4 @@
-<img alt="Henry Noguchi. Software para monitoramento ambiental: dados de oceano e atmosfera, mapas e agentes de IA com uma pessoa no controle." src="assets/banner-dark-pt.svg" width="100%">
+<img alt="Henry Noguchi. Engenharia de software e IA para dados ambientais: pipelines de dados oceânicos e atmosféricos, sistemas geoespaciais e agentes LLM com validação determinística." src="assets/banner-dark-pt.svg" width="100%">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/henry-noguchi-340933201/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -13,7 +13,7 @@
   <img alt="Terminal animado: whoami, lista de projetos e uma execução real do metocean-qc" src="assets/terminal-light.svg" width="100%">
 </picture>
 
-### O que eu construí
+### Projetos selecionados
 
 <table>
 <tr><td width="50%"><a href="https://github.com/hnryguchi/case-study-environmental-portal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/portal-dark.svg"><img src="assets/cards/portal-light.svg" alt="Portal de gestão ambiental" width="100%"></picture></a></td><td width="50%"><a href="https://github.com/hnryguchi/case-study-maritime-operations-map"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/mapa-dark.svg"><img src="assets/cards/mapa-light.svg" alt="Mapa de operações marítimas" width="100%"></picture></a></td></tr>
@@ -22,18 +22,18 @@
 <tr><td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/qrcode-dark.svg"><img src="assets/cards/qrcode-light.svg" alt="Ficha por QR Code" width="100%"></picture></td><td width="50%"><a href="https://github.com/hnryguchi/engineering-prompts"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/prompts-dark.svg"><img src="assets/cards/prompts-light.svg" alt="Prompts de engenharia" width="100%"></picture></a></td></tr>
 </table>
 
-<sub>O código da empresa fica privado: os estudos de caso mostram o problema, a arquitetura e as decisões, sem dados de clientes. · Também: <a href="https://github.com/hnryguchi/Robocap-Project">RoboCAP</a> (extensão em robótica com Arduino).</sub>
+<sub>Código proprietário permanece privado; os estudos de caso documentam arquitetura e decisões técnicas, sem dados de clientes. · Também: <a href="https://github.com/hnryguchi/Robocap-Project">RoboCAP</a> (extensão em robótica com Arduino).</sub>
 
-### Ao vivo agora
+### Pipelines em execução
 
 <table><tr>
 <td width="50%"><a href="https://hnryguchi.github.io/CoralGuard/"><img src="https://hnryguchi.github.io/CoralGuard/status-pt.svg" alt="Recifes de coral do Brasil: anomalia de temperatura, estresse térmico e nível de alerta de hoje (NOAA)" width="100%"></a></td>
 <td width="50%"><a href="https://hnryguchi.github.io/metocean-qc/"><img src="https://hnryguchi.github.io/metocean-qc/41010/status-pt.svg" alt="Boia 41010 da NOAA: últimas leituras, gráfico de 72 horas e flags do controle de qualidade" width="100%"></a></td>
 </tr></table>
 
-<sub>Os dois se atualizam sozinhos todo dia com GitHub Actions e dados públicos. Mapas interativos: <a href="https://github.com/hnryguchi/CoralGuard/blob/main/reefs.geojson">recifes de coral</a> · <a href="https://github.com/hnryguchi/metocean-qc/blob/main/stations.geojson">boias</a></sub>
+<sub>Atualizados diariamente via GitHub Actions a partir de dados públicos da NOAA. GeoJSON interativo: <a href="https://github.com/hnryguchi/CoralGuard/blob/main/reefs.geojson">recifes de coral</a> · <a href="https://github.com/hnryguchi/metocean-qc/blob/main/stations.geojson">boias</a></sub>
 
-### Ferramentas
+### Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 
