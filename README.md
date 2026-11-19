@@ -48,12 +48,16 @@ Both cards are regenerated every day by GitHub Actions from public data. Click e
 
 Atmospheric modeling and high-performance computing (NAPROA) · CI/CD with GitHub Actions · containerization · retrieval over public environmental datasets
 
+#### Next track: game development
+
+🎮 Games are what I want to build professionally next. I'm starting from zero shipped titles, so this space will show
+small prototypes and game jam entries, each with a playable build, a GIF and what I learned.
+
 #### Outside of code
 
 - 🔧 **Hardware:** I build and assemble the devices too; the Aerys station started as a physical ESP32 prototype.
-- 🎮 **Games:** I play a lot, and game development is the next thing I want to build seriously.
 - 📷 **Photography:** instant film on a Fujifilm Instax and early digital on a Fujifilm FinePix 4800.
-- 🎸 **Guitar.**
+- 🎸 **Music:** I play guitar and listen to a lot of music; I want to share simple ways to play: chord shapes, tabs and recordings.
 
 ---
 
