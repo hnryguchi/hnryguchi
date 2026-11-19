@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-pt.svg">
-  <img alt="Henry Noguchi. Software para monitoramento ambiental: dados de oceano e atmosfera, mapas e agentes de IA com uma pessoa no controle." src="assets/banner-light-pt.svg" width="100%">
-</picture>
+<img alt="Henry Noguchi. Software para monitoramento ambiental: dados de oceano e atmosfera, mapas e agentes de IA com uma pessoa no controle." src="assets/banner-dark-pt.svg" width="100%">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/henry-noguchi-340933201/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -13,7 +10,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
-  <img alt="Terminal animado: whoami, lista de projetos, uma execução real do metocean-qc e como eu trabalho" src="assets/terminal-light.svg" width="100%">
+  <img alt="Terminal animado: whoami, lista de projetos e uma execução real do metocean-qc" src="assets/terminal-light.svg" width="100%">
 </picture>
 
 ### 🛠️ O que eu construí
@@ -35,18 +32,6 @@
 </tr></table>
 
 <sub>Os dois se atualizam sozinhos todo dia com GitHub Actions e dados públicos. Mapas interativos: <a href="https://github.com/hnryguchi/CoralGuard/blob/main/reefs.geojson">🪸 recifes</a> · <a href="https://github.com/hnryguchi/metocean-qc/blob/main/stations.geojson">🌊 boias</a></sub>
-
-### 🧠 Como eu trabalho
-
-```mermaid
-flowchart LR
-    A[📥 Dado chega] --> B[✅ Regras testadas<br/>marcam o problema]
-    B --> C[🤖 IA dá uma<br/>segunda opinião]
-    C --> D[🙋 Uma pessoa decide]
-    D --> E[🚀 Publica]
-```
-
-Prefiro um vazio honesto a um dado inventado. Desenvolvo com apoio de IA (Claude Code) e respondo pelo que vai para produção.
 
 ### 🧰 Ferramentas
 
