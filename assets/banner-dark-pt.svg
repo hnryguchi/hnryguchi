@@ -43,11 +43,9 @@
     <path class="w2" d="M600 238 C 700 205, 780 275, 880 238 S 1060 205, 1160 238 S 1250 260, 1290 250" stroke-width="2" stroke-opacity="0.6"/>
     <path class="w3" d="M640 264 C 740 238, 820 292, 920 264 S 1100 238, 1200 264" stroke-width="1.5" stroke-opacity="0.35"/>
   </g>
-  <!-- sample time series: a buoy record with one flagged point -->
+  <!-- sample time series -->
   <polyline class="ts" fill="none" stroke="#fbbf24" stroke-width="2" stroke-opacity="0.9"
     points="760,118 790,112 820,116 850,104 880,108 910,98 940,102 970,64 1000,100 1030,94 1060,90 1090,96 1120,84 1150,88 1180,80"/>
-  <circle class="flag" cx="970" cy="64" r="7" fill="none" stroke="#f87171" stroke-width="2.5"/>
-  <text class="lbl" x="984" y="58" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#fca5a5">SUSPEITO · pico</text>
   <!-- text -->
   <text x="64" y="118" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="54" font-weight="700" fill="#f0f9ff">Henry Noguchi</text>
   <text x="66" y="162" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="22" fill="#bae6fd">Engenharia de software e IA para dados ambientais</text>
