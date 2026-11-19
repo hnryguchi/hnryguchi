@@ -44,8 +44,6 @@
   </g>
   <polyline class="ts" fill="none" stroke="#d97706" stroke-width="2"
     points="760,118 790,112 820,116 850,104 880,108 910,98 940,102 970,64 1000,100 1030,94 1060,90 1090,96 1120,84 1150,88 1180,80"/>
-  <circle class="flag" cx="970" cy="64" r="7" fill="none" stroke="#dc2626" stroke-width="2.5"/>
-  <text class="lbl" x="984" y="58" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#b91c1c">SUSPEITO · pico</text>
   <text x="64" y="118" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="54" font-weight="700" fill="#0c1a2e">Henry Noguchi</text>
   <text x="66" y="162" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="22" fill="#075985">Engenharia de software e IA para dados ambientais</text>
   <text x="66" y="194" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" fill="#0369a1">pipelines de dados oceânicos e atmosféricos · geoespacial · agentes LLM</text>
