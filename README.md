@@ -1,6 +1,7 @@
 <img alt="Henry Noguchi. Engenharia de software e IA para dados ambientais: pipelines de dados oceânicos e atmosféricos, sistemas geoespaciais e agentes LLM com validação determinística." src="assets/banner.svg" width="100%">
 
 <p align="center">
+  <a href="https://hnryguchi.github.io/"><img src="https://img.shields.io/badge/Site-hnryguchi.github.io-2dd4bf?style=for-the-badge&labelColor=081a2e" alt="Site pessoal"></a>
   <a href="https://www.linkedin.com/in/henry-noguchi-340933201/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://hnryguchi.github.io/CoralGuard/"><img src="https://img.shields.io/badge/CoralGuard-ao_vivo-e4572e?style=for-the-badge" alt="CoralGuard ao vivo"></a>
   <a href="https://hnryguchi.github.io/metocean-qc/"><img src="https://img.shields.io/badge/metocean--qc-ao_vivo-1f6feb?style=for-the-badge" alt="metocean-qc ao vivo"></a>
