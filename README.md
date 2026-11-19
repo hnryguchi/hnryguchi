@@ -13,7 +13,7 @@
   <img alt="Terminal animado: whoami, lista de projetos e uma execução real do metocean-qc" src="assets/terminal-light.svg" width="100%">
 </picture>
 
-### 🛠️ O que eu construí
+### O que eu construí
 
 <table>
 <tr><td width="50%"><a href="https://github.com/hnryguchi/case-study-environmental-portal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/portal-dark.svg"><img src="assets/cards/portal-light.svg" alt="Portal de gestão ambiental" width="100%"></picture></a></td><td width="50%"><a href="https://github.com/hnryguchi/case-study-maritime-operations-map"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/mapa-dark.svg"><img src="assets/cards/mapa-light.svg" alt="Mapa de operações marítimas" width="100%"></picture></a></td></tr>
@@ -24,33 +24,33 @@
 
 <sub>O código da empresa fica privado: os estudos de caso mostram o problema, a arquitetura e as decisões, sem dados de clientes. · Também: <a href="https://github.com/hnryguchi/Robocap-Project">RoboCAP</a> (extensão em robótica com Arduino).</sub>
 
-### 📡 Ao vivo agora
+### Ao vivo agora
 
 <table><tr>
 <td width="50%"><a href="https://hnryguchi.github.io/CoralGuard/"><img src="https://hnryguchi.github.io/CoralGuard/status-pt.svg" alt="Recifes de coral do Brasil: anomalia de temperatura, estresse térmico e nível de alerta de hoje (NOAA)" width="100%"></a></td>
 <td width="50%"><a href="https://hnryguchi.github.io/metocean-qc/"><img src="https://hnryguchi.github.io/metocean-qc/41010/status-pt.svg" alt="Boia 41010 da NOAA: últimas leituras, gráfico de 72 horas e flags do controle de qualidade" width="100%"></a></td>
 </tr></table>
 
-<sub>Os dois se atualizam sozinhos todo dia com GitHub Actions e dados públicos. Mapas interativos: <a href="https://github.com/hnryguchi/CoralGuard/blob/main/reefs.geojson">🪸 recifes</a> · <a href="https://github.com/hnryguchi/metocean-qc/blob/main/stations.geojson">🌊 boias</a></sub>
+<sub>Os dois se atualizam sozinhos todo dia com GitHub Actions e dados públicos. Mapas interativos: <a href="https://github.com/hnryguchi/CoralGuard/blob/main/reefs.geojson">recifes de coral</a> · <a href="https://github.com/hnryguchi/metocean-qc/blob/main/stations.geojson">boias</a></sub>
 
-### 🧰 Ferramentas
+### Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 
 <details>
-<summary><b>🎮 📷 🎸 🔧 Fora do código</b> (clique para abrir)</summary>
+<summary><b>Fora do código</b></summary>
 <br>
 
-- 🔧 **Hardware:** também monto os equipamentos; o Aerys começou como um protótipo físico com ESP32.
-- 🎮 **Games:** jogo há anos e presto atenção em como os jogos são pensados e construídos. Desenvolvimento de jogos é uma área em que quero trabalhar.
-- 📷 **Fotografia:** filme instantâneo na Fujifilm Instax e digital antiga na Fujifilm FinePix 4800.
-- 🎸 **Música:** toco guitarra e escuto muita música; quero compartilhar jeitos simples de tocar: acordes, tablaturas e gravações.
-- 🎧 **Meu Spotify:** [me segue lá](https://open.spotify.com/user/31ilerrhi3kodpoigqprs65xdrz4) · o visual que eu uso, com passo a passo para instalar igual: [spotify-setup](https://github.com/hnryguchi/spotify-setup)
+- **Hardware:** também monto os equipamentos; o Aerys começou como um protótipo físico com ESP32.
+- **Games:** jogo há anos e presto atenção em como os jogos são pensados e construídos. Desenvolvimento de jogos é uma área em que quero trabalhar.
+- **Fotografia:** filme instantâneo na Fujifilm Instax e digital antiga na Fujifilm FinePix 4800.
+- **Música:** toco guitarra e escuto muita música; quero compartilhar jeitos simples de tocar: acordes, tablaturas e gravações.
+- **Spotify:** [me segue lá](https://open.spotify.com/user/31ilerrhi3kodpoigqprs65xdrz4) · o visual que eu uso, com passo a passo para instalar igual: [spotify-setup](https://github.com/hnryguchi/spotify-setup)
 
 </details>
 
 <details>
-<summary><b>🎓 Sobre mim</b></summary>
+<summary><b>Sobre mim</b></summary>
 <br>
 
 Graduando em Ciências Biológicas na UERJ (ênfase em Meio Ambiente) e em Análise e Desenvolvimento de Sistemas na UVA. Desenvolvedor na equipe ambiental de uma consultoria de monitoramento offshore, e bolsista de Iniciação Científica em ciência de dados e modelagem atmosférica no [NAPROA](https://labofis.uerj.br/olabofis) (Faculdade de Oceanografia da UERJ), estudando como as temperaturas dos oceanos Pacífico e Atlântico influenciam o clima do Sudeste do Brasil. Fui selecionado pelo programa Jovens Cientistas Cariocas com o Aerys.
@@ -60,7 +60,7 @@ Graduando em Ciências Biológicas na UERJ (ênfase em Meio Ambiente) e em Anál
 </details>
 
 <details>
-<summary><b>🇬🇧 English</b></summary>
+<summary><b>English</b></summary>
 <br>
 
 I build software for environmental monitoring: data platforms, operational maps, and agents that pair **deterministic rules with LLM review**, with a person making the final call. Biology undergraduate at UERJ (environmental track) and Systems Analysis and Development student at UVA. Developer on the environmental team of an offshore monitoring consultancy, and undergraduate research scholar in data science and atmospheric modeling at NAPROA (UERJ's Faculty of Oceanography).

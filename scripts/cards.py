@@ -14,30 +14,30 @@ THEMES = {
     "light": dict(bg="#ffffff", border="#d1d9e0", fg="#1f2328", muted="#59636e", chip="#f6f8fa", chipfg="#31373d"),
 }
 
-# (file, emoji, title, two description lines, stack chips, status, accent colour)
+# (file, title, two description lines, stack chips, status, accent colour)
 CARDS = [
-    ("portal", "🌿", "Portal de gestão ambiental",
+    ("portal", "Portal de gestão ambiental",
      ["A equipe revisa e publica programas e indicadores;", "cada cliente vê só o que foi aprovado."],
      ["Next.js", "TypeScript", "PostgreSQL", "Azure"], "em produção", "#2da44e"),
-    ("mapa", "🗺️", "Mapa de operações marítimas",
+    ("mapa", "Mapa de operações marítimas",
      ["Relatórios por e-mail viram um mapa público,", "validados por regras e revisados por IA."],
      ["MapLibre", "WebGL2", "Logic Apps", "Claude"], "em produção", "#0969da"),
-    ("agentes", "🤖", "Agentes de e-mail",
+    ("agentes", "Agentes de e-mail",
      ["Anexos conferidos por um motor de regras e uma IA;", "o resultado vira rascunho para uma pessoa aprovar."],
      ["Python", "PowerShell", "Outlook", "Claude"], "uso diário", "#8250df"),
-    ("coralguard", "🪸", "CoralGuard",
+    ("coralguard", "CoralGuard",
      ["Estresse térmico nos recifes de coral do Brasil", "desde 1985, atualizado todo dia (NOAA)."],
      ["Python", "pandas", "Plotly", "Actions"], "ao vivo", "#e4572e"),
-    ("metocean", "🌊", "metocean-qc",
+    ("metocean", "metocean-qc",
      ["Controle de qualidade de dados de boias, testado", "com dados reais e rodando todo dia."],
      ["Python", "pytest", "Docker", "Actions"], "código aberto", "#1f6feb"),
-    ("aerys", "📡", "Aerys",
+    ("aerys", "Aerys",
      ["Estação ambiental de baixo custo: protótipo físico", "com ESP32 e painel web. Jovens Cientistas Cariocas."],
      ["ESP32", "Arduino", "Next.js", "Supabase"], "protótipo", "#bf8700"),
-    ("qrcode", "📋", "Ficha por QR Code",
+    ("qrcode", "Ficha por QR Code",
      ["Fichas de papel viram formulário no celular, PDF fiel", "ao modelo e envio automático ao SharePoint."],
      ["Flask", "MS Graph", "Azure", "pytest"], "em produção", "#2da44e"),
-    ("prompts", "🧭", "Prompts de engenharia",
+    ("prompts", "Prompts de engenharia",
      ["Prompts para trabalhar com agentes de código:", "auditoria antes de mudar, aprovação, sem dado inventado."],
      ["Markdown"], "mantido", "#57606a"),
 ]
@@ -49,7 +49,7 @@ def esc(s: str) -> str:
     return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
-def card(theme: str, emoji, title, lines, chips, status, accent) -> str:
+def card(theme: str, title, lines, chips, status, accent) -> str:
     t = THEMES[theme]
     font = "-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
     parts = [
@@ -59,8 +59,7 @@ def card(theme: str, emoji, title, lines, chips, status, accent) -> str:
         "@media (prefers-reduced-motion:reduce){.bar{animation:none}}</style>",
         f'<rect x=".5" y=".5" width="{W - 1}" height="{H - 1}" rx="10" fill="{t["bg"]}" stroke="{t["border"]}"/>',
         f'<rect class="bar" x="1" y="1" width="{W - 2}" height="4" rx="2" fill="{accent}"/>',
-        f'<text x="18" y="40" font-size="20">{emoji}</text>',
-        f'<text x="48" y="39" font-size="16" font-weight="600" fill="{t["fg"]}">{esc(title)}</text>',
+        f'<text x="18" y="39" font-size="16" font-weight="600" fill="{t["fg"]}">{esc(title)}</text>',
     ]
     sw = 12 + 6.4 * len(status)
     parts.append(f'<rect x="{W - 16 - sw:.0f}" y="22" width="{sw:.0f}" height="22" rx="11" fill="{accent}" '
