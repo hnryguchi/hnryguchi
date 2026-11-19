@@ -7,6 +7,7 @@
   <a href="https://www.linkedin.com/in/henry-noguchi-340933201/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://hnryguchi.github.io/CoralGuard/"><img src="https://img.shields.io/badge/CoralGuard-ao_vivo-e4572e?style=for-the-badge" alt="CoralGuard ao vivo"></a>
   <a href="https://hnryguchi.github.io/metocean-qc/"><img src="https://img.shields.io/badge/metocean--qc-ao_vivo-1f6feb?style=for-the-badge" alt="metocean-qc ao vivo"></a>
+  <a href="https://open.spotify.com/user/31ilerrhi3kodpoigqprs65xdrz4"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
   <a href="https://codespaces.new/hnryguchi/metocean-qc?quickstart=1"><img src="https://img.shields.io/badge/Rodar_no_navegador-Codespaces-24292f?style=for-the-badge&logo=github" alt="Rodar no Codespaces"></a>
 </p>
 
@@ -29,8 +30,8 @@
 ### 📡 Ao vivo agora
 
 <table><tr>
-<td width="50%"><a href="https://hnryguchi.github.io/CoralGuard/"><img src="https://hnryguchi.github.io/CoralGuard/status.svg" alt="Recifes de coral do Brasil: anomalia de temperatura, estresse térmico e nível de alerta de hoje (NOAA)" width="100%"></a></td>
-<td width="50%"><a href="https://hnryguchi.github.io/metocean-qc/"><img src="https://hnryguchi.github.io/metocean-qc/41010/status.svg" alt="Boia 41010 da NOAA: últimas leituras, gráfico de 72 horas e flags do controle de qualidade" width="100%"></a></td>
+<td width="50%"><a href="https://hnryguchi.github.io/CoralGuard/"><img src="https://hnryguchi.github.io/CoralGuard/status-pt.svg" alt="Recifes de coral do Brasil: anomalia de temperatura, estresse térmico e nível de alerta de hoje (NOAA)" width="100%"></a></td>
+<td width="50%"><a href="https://hnryguchi.github.io/metocean-qc/"><img src="https://hnryguchi.github.io/metocean-qc/41010/status-pt.svg" alt="Boia 41010 da NOAA: últimas leituras, gráfico de 72 horas e flags do controle de qualidade" width="100%"></a></td>
 </tr></table>
 
 <sub>Os dois se atualizam sozinhos todo dia com GitHub Actions e dados públicos. Mapas interativos: <a href="https://github.com/hnryguchi/CoralGuard/blob/main/reefs.geojson">🪸 recifes</a> · <a href="https://github.com/hnryguchi/metocean-qc/blob/main/stations.geojson">🌊 boias</a></sub>
@@ -59,6 +60,7 @@ Prefiro um vazio honesto a um dado inventado. Desenvolvo com apoio de IA (Claude
 - 🎮 **Games:** jogo há anos e presto atenção em como os jogos são pensados e construídos. Desenvolvimento de jogos é uma área em que quero trabalhar.
 - 📷 **Fotografia:** filme instantâneo na Fujifilm Instax e digital antiga na Fujifilm FinePix 4800.
 - 🎸 **Música:** toco guitarra e escuto muita música; quero compartilhar jeitos simples de tocar: acordes, tablaturas e gravações.
+- 🎧 **Meu Spotify:** [me segue lá](https://open.spotify.com/user/31ilerrhi3kodpoigqprs65xdrz4) · o visual que eu uso, com passo a passo para instalar igual: [spotify-setup](https://github.com/hnryguchi/spotify-setup)
 
 </details>
 
