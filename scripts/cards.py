@@ -89,8 +89,6 @@ TERM = [
     ("", "portal-ambiental/  mapa-maritimo/  agentes-email/  coralguard/  metocean-qc/  aerys/"),
     ("$ ", "metqc fetch 41010 && metqc check data/41010.txt"),
     ("", "41010: 6347 registros, 12 achados, 2 eventos  ✓ relatório gerado"),
-    ("$ ", "cat como-eu-trabalho.txt"),
-    ("", "regras primeiro → IA como segunda opinião → uma pessoa decide"),
 ]
 
 
@@ -105,7 +103,7 @@ def terminal(theme: str) -> str:
            "@keyframes s{to{opacity:1}}", ".cur{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}",
            "@media (prefers-reduced-motion:reduce){.l{animation:none;opacity:1}.cur{animation:none}}"]
     parts = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" '
-             'aria-label="Terminal: whoami, lista de projetos, execução do metocean-qc e como eu trabalho">']
+             'aria-label="Terminal: whoami, lista de projetos e execução do metocean-qc">']
     body = []
     t = 0.3
     for i, (p, txt) in enumerate(TERM):
