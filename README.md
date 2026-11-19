@@ -1,4 +1,4 @@
-<img alt="Henry Noguchi. Engenharia de software e IA para dados ambientais: pipelines de dados oceânicos e atmosféricos, sistemas geoespaciais e agentes LLM com validação determinística." src="assets/banner-dark-pt.svg" width="100%">
+<img alt="Henry Noguchi. Engenharia de software e IA para dados ambientais: pipelines de dados oceânicos e atmosféricos, sistemas geoespaciais e agentes LLM com validação determinística." src="assets/banner.svg" width="100%">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/henry-noguchi-340933201/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -8,18 +8,15 @@
   <a href="https://codespaces.new/hnryguchi/metocean-qc?quickstart=1"><img src="https://img.shields.io/badge/Rodar_no_navegador-Codespaces-24292f?style=for-the-badge&logo=github" alt="Rodar no Codespaces"></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
-  <img alt="Terminal animado: whoami, lista de projetos e uma execução real do metocean-qc" src="assets/terminal-light.svg" width="100%">
-</picture>
+<img alt="Terminal animado: whoami, lista de projetos e uma execução real do metocean-qc" src="assets/terminal.svg" width="100%">
 
 ### Projetos selecionados
 
 <table>
-<tr><td width="50%"><a href="https://github.com/hnryguchi/case-study-environmental-portal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/portal-dark.svg"><img src="assets/cards/portal-light.svg" alt="Portal de gestão ambiental" width="100%"></picture></a></td><td width="50%"><a href="https://github.com/hnryguchi/case-study-maritime-operations-map"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/mapa-dark.svg"><img src="assets/cards/mapa-light.svg" alt="Mapa de operações marítimas" width="100%"></picture></a></td></tr>
-<tr><td width="50%"><a href="https://github.com/hnryguchi/case-study-email-driven-agents"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/agentes-dark.svg"><img src="assets/cards/agentes-light.svg" alt="Agentes de e-mail" width="100%"></picture></a></td><td width="50%"><a href="https://hnryguchi.github.io/CoralGuard/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/coralguard-dark.svg"><img src="assets/cards/coralguard-light.svg" alt="CoralGuard" width="100%"></picture></a></td></tr>
-<tr><td width="50%"><a href="https://github.com/hnryguchi/metocean-qc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/metocean-dark.svg"><img src="assets/cards/metocean-light.svg" alt="metocean-qc" width="100%"></picture></a></td><td width="50%"><a href="https://github.com/hnryguchi/aerys"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/aerys-dark.svg"><img src="assets/cards/aerys-light.svg" alt="Aerys" width="100%"></picture></a></td></tr>
-<tr><td width="50%"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/qrcode-dark.svg"><img src="assets/cards/qrcode-light.svg" alt="Ficha por QR Code" width="100%"></picture></td><td width="50%"><a href="https://github.com/hnryguchi/engineering-prompts"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/prompts-dark.svg"><img src="assets/cards/prompts-light.svg" alt="Prompts de engenharia" width="100%"></picture></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/hnryguchi/case-study-environmental-portal"><img src="assets/cards/portal.svg" alt="Portal de gestão ambiental" width="100%"></a></td><td width="50%"><a href="https://github.com/hnryguchi/case-study-maritime-operations-map"><img src="assets/cards/mapa.svg" alt="Mapa de operações marítimas" width="100%"></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/hnryguchi/case-study-email-driven-agents"><img src="assets/cards/agentes.svg" alt="Agentes de e-mail" width="100%"></a></td><td width="50%"><a href="https://hnryguchi.github.io/CoralGuard/"><img src="assets/cards/coralguard.svg" alt="CoralGuard" width="100%"></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/hnryguchi/metocean-qc"><img src="assets/cards/metocean.svg" alt="metocean-qc" width="100%"></a></td><td width="50%"><a href="https://github.com/hnryguchi/aerys"><img src="assets/cards/aerys.svg" alt="Aerys" width="100%"></a></td></tr>
+<tr><td width="50%"><img src="assets/cards/qrcode.svg" alt="Ficha por QR Code" width="100%"></td><td width="50%"><a href="https://github.com/hnryguchi/engineering-prompts"><img src="assets/cards/prompts.svg" alt="Prompts de engenharia" width="100%"></a></td></tr>
 </table>
 
 <sub>Código proprietário permanece privado; os estudos de caso documentam arquitetura e decisões técnicas, sem dados de clientes. · Também: <a href="https://github.com/hnryguchi/Robocap-Project">RoboCAP</a> (extensão em robótica com Arduino).</sub>
