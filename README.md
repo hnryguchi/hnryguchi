@@ -15,10 +15,18 @@ Biology undergraduate at UERJ (environmental track) and Systems Analysis and Dev
 | [**E-mail-driven agents**](https://github.com/hnryguchi/case-study-email-driven-agents) | Attachments are filed, checked by a rules engine, reviewed by an LLM, and turned into **drafts** for a human to approve | Python · PowerShell · Outlook COM · Claude | Daily use |
 | **QR-code evaluation form** | Paper training forms → mobile form, signature, template-faithful PDF, automatic SharePoint upload | Flask · Microsoft Graph · Azure · pytest | In production |
 | [**Aerys**](https://github.com/hnryguchi/aerys) | Low-cost weather station (temperature, humidity, pressure) with a public dashboard and authenticated device ingestion | ESP32 · Arduino · Next.js · Supabase | Prototype · selected by the Jovens Cientistas Cariocas program |
+| [**CoralGuard**](https://github.com/hnryguchi/CoralGuard) · [live](https://hnryguchi.github.io/CoralGuard/) | Satellite heat stress on Brazil's 7 monitored coral reef regions since 1985, rebuilt every day from NOAA Coral Reef Watch | Python · pandas · Plotly · Leaflet · GitHub Actions · Pages | Live, updated daily |
 | [**metocean-qc**](https://github.com/hnryguchi/metocean-qc) | Quality control for buoy and weather-station data, tested on real NOAA records: rules set the flags, an optional LLM explains each event | Python · pytest · GitHub Actions · Docker | Open source, v0.1 |
 | [**Engineering prompts**](https://github.com/hnryguchi/engineering-prompts) | Reusable prompts for working with AI coding agents: audits before changes, approval gates, no invented data | Markdown | Maintained |
+| [**RoboCAP**](https://github.com/hnryguchi/Robocap-Project) | University outreach project: Arduino builds, programming workshops and mini-courses | Arduino · C++ · Python | Outreach |
 
 <sub>Company code stays private. The case studies cover the problem, architecture and decisions, with no client data.</sub>
+
+#### Live right now
+
+<a href="https://hnryguchi.github.io/CoralGuard/"><img src="https://hnryguchi.github.io/CoralGuard/status.svg" alt="Today's sea surface temperature anomaly, heat stress and bleaching alert level for Brazil's coral reefs, from NOAA Coral Reef Watch" width="540"></a>
+
+<sub>Real NOAA data, regenerated every day by CoralGuard's GitHub Actions pipeline. Click for the interactive dashboard.</sub>
 
 #### How I work
 
