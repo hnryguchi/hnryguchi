@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="t d">
+  <title id="t">Henry Noguchi</title>
+  <desc id="d">Software for environmental monitoring: ocean and atmosphere data, maps and AI agents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07152b"/>
+      <stop offset="0.55" stop-color="#0a2f4f"/>
+      <stop offset="1" stop-color="#0d5e6e"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#2dd4bf" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0.9"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#7dd3fc" fill-opacity="0.18"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="300" rx="14" fill="url(#bg)"/>
+  <rect x="700" width="580" height="300" fill="url(#dots)"/>
+  <!-- swell lines -->
+  <g fill="none" stroke="url(#wave)" stroke-linecap="round">
+    <path d="M560 210 C 660 170, 740 250, 840 210 S 1020 170, 1120 210 S 1240 240, 1290 220" stroke-width="3"/>
+    <path d="M600 238 C 700 205, 780 275, 880 238 S 1060 205, 1160 238 S 1250 260, 1290 250" stroke-width="2" stroke-opacity="0.6"/>
+    <path d="M640 264 C 740 238, 820 292, 920 264 S 1100 238, 1200 264" stroke-width="1.5" stroke-opacity="0.35"/>
+  </g>
+  <!-- sample time series: a buoy record with one flagged point -->
+  <polyline fill="none" stroke="#fbbf24" stroke-width="2" stroke-opacity="0.9"
+    points="760,118 790,112 820,116 850,104 880,108 910,98 940,102 970,64 1000,100 1030,94 1060,90 1090,96 1120,84 1150,88 1180,80"/>
+  <circle cx="970" cy="64" r="7" fill="none" stroke="#f87171" stroke-width="2.5"/>
+  <text x="984" y="58" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" fill="#fca5a5">SUSPECT · spike</text>
+  <!-- text -->
+  <text x="64" y="118" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="54" font-weight="700" fill="#f0f9ff">Henry Noguchi</text>
+  <text x="66" y="162" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="22" fill="#bae6fd">Software for environmental monitoring</text>
+  <text x="66" y="194" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" fill="#7dd3fc">ocean &amp; atmosphere data · maps · AI agents with humans in the loop</text>
+  <text x="66" y="250" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14" fill="#5eead4">$ rules first → LLM second opinion → a person decides</text>
+</svg>

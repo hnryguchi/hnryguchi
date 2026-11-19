@@ -1,4 +1,7 @@
-### Henry Noguchi
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Henry Noguchi. Software for environmental monitoring: ocean and atmosphere data, maps and AI agents with humans in the loop." src="assets/banner-light.svg" width="100%">
+</picture>
 
 I build software for environmental monitoring: data platforms, operational maps, and agents that pair **deterministic rules with LLM review**.
 Biology undergraduate at UERJ (environmental track). Developer on the environmental team of an offshore monitoring consultancy, and undergraduate research (IC) scholar in data science and atmospheric modeling at [NAPROA](https://labofis.uerj.br/olabofis), UERJ's Faculty of Oceanography, studying how Pacific and Atlantic sea surface temperatures shape the climate of Southeast Brazil.
@@ -25,7 +28,9 @@ Biology undergraduate at UERJ (environmental track). Developer on the environmen
 
 #### Tools I use day to day
 
-TypeScript · Next.js · React · Prisma · PostgreSQL · Python · Flask · pandas · openpyxl · PowerShell · Azure (App Service, Logic Apps, Blob Storage) · Microsoft Graph · Claude API · Vitest · pytest · Playwright · ESP32
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+
+<sub>Also: React · Prisma · Flask · pandas · openpyxl · PowerShell · Azure Logic Apps · Microsoft Graph · Vitest · Playwright · Docker</sub>
 
 #### Currently learning
 
