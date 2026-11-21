@@ -51,7 +51,7 @@
 <summary><b>Sobre mim</b></summary>
 <br>
 
-Graduando em Ciências Biológicas na UERJ (ênfase em Meio Ambiente) e em Análise e Desenvolvimento de Sistemas na UVA. Desenvolvedor na equipe ambiental de uma consultoria de monitoramento offshore, e bolsista de Iniciação Científica em ciência de dados e modelagem atmosférica no [NAPROA](https://labofis.uerj.br/olabofis) (Faculdade de Oceanografia da UERJ), estudando como as temperaturas dos oceanos Pacífico e Atlântico influenciam o clima do Sudeste do Brasil. Fui selecionado pelo programa Jovens Cientistas Cariocas com o Aerys.
+Graduando em Ciências Biológicas na UERJ (ênfase em Meio Ambiente) e em Análise e Desenvolvimento de Sistemas na UVA. Trainee ambiental em uma consultoria de monitoramento offshore, e bolsista de Iniciação Científica em ciência de dados e modelagem atmosférica no [NAPROA](https://labofis.uerj.br/olabofis) (Faculdade de Oceanografia da UERJ), estudando como as temperaturas dos oceanos Pacífico e Atlântico influenciam o clima do Sudeste do Brasil. Fui selecionado pelo programa Jovens Cientistas Cariocas com o Aerys.
 
 **Aprendendo agora:** modelagem atmosférica e computação de alto desempenho · CI/CD com GitHub Actions · containers · busca em bases públicas de dados ambientais.
 
@@ -61,7 +61,7 @@ Graduando em Ciências Biológicas na UERJ (ênfase em Meio Ambiente) e em Anál
 <summary><b>English</b></summary>
 <br>
 
-I build software for environmental monitoring: data platforms, operational maps, and agents that pair **deterministic rules with LLM review**, with a person making the final call. Biology undergraduate at UERJ (environmental track) and Systems Analysis and Development student at UVA. Developer on the environmental team of an offshore monitoring consultancy, and undergraduate research scholar in data science and atmospheric modeling at NAPROA (UERJ's Faculty of Oceanography).
+I build software for environmental monitoring: data platforms, operational maps, and agents that pair **deterministic rules with LLM review**, with a person making the final call. Biology undergraduate at UERJ (environmental track) and Systems Analysis and Development student at UVA. Environmental Trainee at an offshore monitoring consultancy, and undergraduate research scholar in data science and atmospheric modeling at NAPROA (UERJ's Faculty of Oceanography).
 
 Selected work, above: an environmental compliance portal, a maritime operations map and e-mail-driven agents (all in production; case studies only, company code stays private), plus open-source [CoralGuard](https://hnryguchi.github.io/CoralGuard/), [metocean-qc](https://github.com/hnryguchi/metocean-qc) and [Aerys](https://github.com/hnryguchi/aerys). Outside of code: hardware builds, games, photography (Instax, FinePix 4800) and guitar.
 
