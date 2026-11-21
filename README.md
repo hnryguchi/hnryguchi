@@ -71,3 +71,7 @@ Selected work, above: an environmental compliance portal, a maritime operations 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hnryguchi/hnryguchi/output/snake-dark.svg">
   <img alt="Cobrinha comendo os quadrados do meu gráfico de contribuições" src="https://raw.githubusercontent.com/hnryguchi/hnryguchi/output/snake-light.svg" width="100%">
 </picture>
+
+---
+
+> © Henry Noguchi. **Todos os direitos reservados.** Repositório público só para leitura; copiar, reutilizar ou apresentar como próprio exige autorização. Ver [LICENSE](LICENSE).
