@@ -15,9 +15,10 @@
 
 <table>
 <tr><td width="50%"><a href="https://github.com/hnryguchi/case-study-environmental-portal"><img src="assets/cards/portal.svg" alt="Portal de gestão ambiental" width="100%"></a></td><td width="50%"><a href="https://github.com/hnryguchi/case-study-maritime-operations-map"><img src="assets/cards/mapa.svg" alt="Mapa de operações marítimas" width="100%"></a></td></tr>
-<tr><td width="50%"><a href="https://github.com/hnryguchi/case-study-email-driven-agents"><img src="assets/cards/agentes.svg" alt="Agentes de e-mail" width="100%"></a></td><td width="50%"><a href="https://hnryguchi.github.io/CoralGuard/"><img src="assets/cards/coralguard.svg" alt="CoralGuard" width="100%"></a></td></tr>
-<tr><td width="50%"><a href="https://hnryguchi.github.io/metocean-qc/"><img src="assets/cards/metocean.svg" alt="metocean-qc" width="100%"></a></td><td width="50%"><a href="https://github.com/hnryguchi/aerys"><img src="assets/cards/aerys.svg" alt="Aerys" width="100%"></a></td></tr>
-<tr><td width="50%"><img src="assets/cards/qrcode.svg" alt="Ficha por QR Code" width="100%"></td><td width="50%"><a href="https://github.com/hnryguchi/engineering-prompts"><img src="assets/cards/prompts.svg" alt="Prompts de engenharia" width="100%"></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/hnryguchi/case-study-email-driven-agents"><img src="assets/cards/agentes.svg" alt="Agentes de e-mail" width="100%"></a></td><td width="50%"><a href="https://github.com/hnryguchi/case-study-website-incident-response"><img src="assets/cards/incidente.svg" alt="Resposta a incidente em site" width="100%"></a></td></tr>
+<tr><td width="50%"><a href="https://hnryguchi.github.io/CoralGuard/"><img src="assets/cards/coralguard.svg" alt="CoralGuard" width="100%"></a></td><td width="50%"><a href="https://hnryguchi.github.io/metocean-qc/"><img src="assets/cards/metocean.svg" alt="metocean-qc" width="100%"></a></td></tr>
+<tr><td width="50%"><a href="https://github.com/hnryguchi/aerys"><img src="assets/cards/aerys.svg" alt="Aerys" width="100%"></a></td><td width="50%"><img src="assets/cards/qrcode.svg" alt="Ficha por QR Code" width="100%"></td></tr>
+<tr><td width="50%"><a href="https://github.com/hnryguchi/engineering-prompts"><img src="assets/cards/prompts.svg" alt="Prompts de engenharia" width="100%"></a></td><td width="50%"></td></tr>
 </table>
 
 <sub>Código proprietário permanece privado; os estudos de caso documentam arquitetura e decisões técnicas, sem dados de clientes. · Também: <a href="https://github.com/hnryguchi/Robocap-Project">RoboCAP</a> (extensão em robótica com Arduino).</sub>
@@ -63,7 +64,7 @@ Graduando em Ciências Biológicas na UERJ (ênfase em Meio Ambiente) e em Anál
 
 I build software for environmental monitoring: data platforms, operational maps, and agents that pair **deterministic rules with LLM review**, with a person making the final call. Biology undergraduate at UERJ (environmental track) and Systems Analysis and Development student at UVA. Environmental Trainee at an offshore monitoring consultancy, and undergraduate research scholar in data science and atmospheric modeling at NAPROA (UERJ's Faculty of Oceanography).
 
-Selected work, above: an environmental compliance portal, a maritime operations map and e-mail-driven agents (all in production; case studies only, company code stays private), plus open-source [CoralGuard](https://hnryguchi.github.io/CoralGuard/), [metocean-qc](https://github.com/hnryguchi/metocean-qc) and [Aerys](https://github.com/hnryguchi/aerys). Outside of code: hardware builds, games, photography (Instax, FinePix 4800) and guitar.
+Selected work, above: an environmental compliance portal, a maritime operations map and e-mail-driven agents (all in production; case studies only, company code stays private), an incident response on a compromised WordPress site, plus open-source [CoralGuard](https://hnryguchi.github.io/CoralGuard/), [metocean-qc](https://github.com/hnryguchi/metocean-qc) and [Aerys](https://github.com/hnryguchi/aerys). Outside of code: hardware builds, games, photography (Instax, FinePix 4800) and guitar.
 
 </details>
 
