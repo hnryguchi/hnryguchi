@@ -40,7 +40,7 @@
 <br>
 
 - **Hardware:** também monto os equipamentos; o Aerys começou como um protótipo físico com ESP32.
-- **Games:** jogo há anos e presto atenção em como os jogos são pensados e construídos. Desenvolvimento de jogos é uma área em que quero trabalhar.
+- **Games:** jogo há anos e presto atenção em como os jogos são pensados e construídos. Desenvolvimento de jogos é uma das áreas em que eu gostaria de trabalhar, entre outras.
 - **Fotografia:** filme instantâneo na Fujifilm Instax e digital antiga na Fujifilm FinePix 4800.
 - **Música:** toco guitarra e escuto muita música; quero compartilhar jeitos simples de tocar: acordes, tablaturas e gravações.
 - **Spotify:** [me segue lá](https://open.spotify.com/user/31ilerrhi3kodpoigqprs65xdrz4) · o visual que eu uso, com passo a passo para instalar igual: [spotify-setup](https://github.com/hnryguchi/spotify-setup)
